@@ -1,0 +1,9 @@
+[GPT-5-mini] Adding the model package: Created model package and added all model classes.
+
+[GPT-5-mini] Adding the repository package: Created repository package and added repository classes for Student, Employee, Book, and Loan.
+
+[GPT-5-mini] Adding the service package: Created service package and implemented StudentService, GuestService, EmployeeService, and AdminService classes.
+
+[GPT-5-mini] Adding the util package: Created util package for helper classes and utilities.
+
+[GPT-5-mini] Adding Main: Added Main.java class with main menu, student menu, guest menu, employee menu, and admin menu integrated with all services.
